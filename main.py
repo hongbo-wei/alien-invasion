@@ -23,7 +23,7 @@ class AlienInvasion:
         self.screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
         self.settings.screen_width = self.screen.get_rect().width
         self.settings.screen_height = self.screen.get_rect().height
-        pygame.display.set_caption('Genius Against Aliens')
+        pygame.display.set_caption("Genius Against Aliens")
 
         # Create an instance to store game statistics and create a scoreboard.
         self.stats = Gamestats(self)
@@ -65,9 +65,7 @@ class AlienInvasion:
     def _check_bullet_alien_collisions(self):
         """Respond to bullet-alien collisions."""
         # Remove any bullets and aliens that have collided.
-        collisions = pygame.sprite.groupcollide(
-            self.bullets, self.aliens, True, True
-        )
+        collisions = pygame.sprite.groupcollide(self.bullets, self.aliens, True, True)
 
         if collisions:
             for aliens in collisions.values():
@@ -263,7 +261,7 @@ class AlienInvasion:
         pygame.display.flip()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # Make a game instance, and run the game.
     ai = AlienInvasion()
     ai.run_game()
