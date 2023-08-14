@@ -12,5 +12,7 @@
 
 ### Press 'q' to quit the game
 
+#### You can play it on https://replit.com/@hongbo-wei/alien-invasion
+
 **If you like this game project, please indicate the author Hongbo Wei's version of Alien Invasion when reposting**
 **Thank you! :)**
