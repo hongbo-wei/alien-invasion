@@ -4,7 +4,7 @@
 
 **-- My own version of Alien Invasion (from Python Crash Course by Eric Matthes)**
 
-<img width="1728" alt="Screenshot 2023-05-29 at 6 38 21 pm" src="https://github.com/hongbo-wei/alien-invasion/alien-invasion.png">
+<img width="1728" alt="Alien Invasion" src="https://github.com/hongbo-wei/alien-invasion/blob/main/alien-invasion.png?raw=true">
 
 ## Run alien_invasion.py to play the game. Instruction:
 
