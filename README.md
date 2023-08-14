@@ -1,4 +1,4 @@
-# alien_invasion-pygame
+# Alien Invasion (Pygame)
 **A game made by Hongbo Wei 🎮**
 
 
