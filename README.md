@@ -6,17 +6,25 @@
 
 <img width="1728" alt="Alien Invasion" src="https://github.com/hongbo-wei/alien-invasion/blob/main/alien_invasion.png?raw=true">
 
-## Run alien_invasion.py in an IDE to play the game.
+## Play the game
 
-## Or run dist/main to play the game.
+- Run `main` to play the game. 
+
+- Or `pip install pygame` (only if you haven't installed) and then run `main.py` in an IDE to play the game.
 
 ### Instruction:
 
-#### Click 'play' button or press 'space' bar.
+Play: Click `play` button or press `p`.
 
-#### Press 'q' to quit the game
+Move: `←↑→↓` arrow keys
 
-##### You can play it on https://replit.com/@hongbo-wei/alien-invasion
+Shoot: `Space` bar
+
+Quit: `q`
+
+#### Replit Deployment (it used to be free)
+
+View it on https://replit.com/@hongbo-wei/alien-invasion
 
 **If you like this game project, please indicate the author Hongbo Wei's version of Alien Invasion when reposting**
 **Thank you! :)**
